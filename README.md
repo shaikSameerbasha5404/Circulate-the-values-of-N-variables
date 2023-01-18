@@ -27,9 +27,7 @@ def circulate():
     print('After circulating the values are:',circul)
 l=eval(input())
 n=int(input())
-
-## Output:
-![MODEL](/circulate_output.png)
-
+##Output:
+![curculate_output](https://user-images.githubusercontent.com/118707756/213076390-346d20a7-da71-4cbe-91c2-4b672e5ac6ee.png)
 ## Result:
 Thus the circulate-the-values-of-N-variables are sucessfully executed.
